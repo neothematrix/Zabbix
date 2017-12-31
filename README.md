@@ -1,7 +1,7 @@
 ZBX-VEEAM-BACKUP
 ================
 
-This template use the VEEAM Backup & Replication PowerShell Cmdlets to discover and manage VEEAM Backup job.
+This template use the VEEAM Backup & Replication PowerShell Cmdlets to discover and manage VEEAM Backup job. 
 
 Items
 -----
